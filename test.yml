@@ -1,3 +1,5 @@
+data:
+  message: '{cipher}8f9e6df5141397141ff1c88b0bfef9e1e6478115e72845fe72e065cdc66b7b97'
 server:
   port: 8090
 spring:
